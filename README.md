@@ -4,10 +4,8 @@
 Build a machine learning model to detect fraudulent transactions in a large financial dataset and recommend preventive actions.
 
 ## Dataset
-- 6.3 million rows  
-- 10 columns  
-- Format: CSV  
-- Target: `isFraud` (1 = Fraud, 0 = Legit)
+📥 [ Download Dataset (CSV) ](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
+
 
 ## ⚙️ Tools & Technologies
 - **Language:** Python  
